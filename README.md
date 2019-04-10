@@ -7,5 +7,5 @@ blog
 
 
 <!--
-<script type="text/javascript" color="0,255,0" opacity="0.7" zindex="-2" count="20" src="./canvas_01/canvas-nest.min.js"></script>
+<script type="text/javascript" color="0,255,0" opacity="0.7" zindex="-2" count="100" src="./canvas_01/canvas-nest.min.js"></script>
 -->
