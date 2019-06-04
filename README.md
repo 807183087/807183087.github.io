@@ -1,9 +1,10 @@
 # fightChicken
 blog
 
-<a href="itms-services://?action=download-manifest&url=https://807183087.github.io/FaceCap/iOS12.1/manifest.plist">安装FaceCap iOS12.1</a>
+<!--<a href="itms-services://?action=download-manifest&url=https://807183087.github.io/FaceCap/iOS12.1/manifest.plist">安装FaceCap iOS12.1</a>
+-->
 
-<a href="itms-services://?action=download-manifest&url=https://807183087.github.io/FaceCap/iOS12.2/manifest.plist">安装FaceCap iOS12.2</a>
+<a href="itms-services://?action=download-manifest&url=https://807183087.github.io/FaceCap/iOS12.2/manifest.plist">安装FaceCap（iOS12.2以上）</a>
 
 
 <!--
